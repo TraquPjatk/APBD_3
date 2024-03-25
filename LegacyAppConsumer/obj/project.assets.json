@@ -2,9 +2,15 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100/7.0.17": {
+        "type": "package"
+      },
       "LegacyApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100": "7.0.17"
+        },
         "compile": {
           "bin/placeholder/LegacyApp.dll": {}
         },
@@ -15,6 +21,36 @@
     }
   },
   "libraries": {
+    "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100/7.0.17": {
+      "sha512": "1CndxY1Iw7cFA6UC0fxfenMeQ5120dSG50wqcoPz6xDJTwxm4uZQWMH5ZE2/c1ApbFozIpzuvOqMAh58UbNbmA==",
+      "type": "package",
+      "path": "microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100/7.0.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "data/WorkloadManifest.json",
+        "data/WorkloadManifest.targets",
+        "data/localize/WorkloadManifest.cs.json",
+        "data/localize/WorkloadManifest.de.json",
+        "data/localize/WorkloadManifest.en.json",
+        "data/localize/WorkloadManifest.es.json",
+        "data/localize/WorkloadManifest.fr.json",
+        "data/localize/WorkloadManifest.it.json",
+        "data/localize/WorkloadManifest.ja.json",
+        "data/localize/WorkloadManifest.ko.json",
+        "data/localize/WorkloadManifest.pl.json",
+        "data/localize/WorkloadManifest.pt-BR.json",
+        "data/localize/WorkloadManifest.ru.json",
+        "data/localize/WorkloadManifest.tr.json",
+        "data/localize/WorkloadManifest.zh-Hans.json",
+        "data/localize/WorkloadManifest.zh-Hant.json",
+        "microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512",
+        "microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.nuspec"
+      ]
+    },
     "LegacyApp/1.0.0": {
       "type": "project",
       "path": "../LegacyApp/LegacyApp.csproj",

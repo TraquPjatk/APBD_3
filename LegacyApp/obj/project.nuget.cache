@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DsAA976bvUEBu8NbVCNEbE2kr9uXeEKLM2+wwQFu+WuYR/xnYXsJ6hL+cSWJtTQF8VyST84R8vuTYgxgI5Jf7g==",
+  "dgSpecHash": "b08R1gyIzuTSYPFZVcQDQL6D8kYPVvbCrIcrHqbcWpkDNa9CMIrpbsuvDA5mEbq7LBdU33F/m0LICrwG1+rjrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyApp\\LegacyApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100\\7.0.17\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
