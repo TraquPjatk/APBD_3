@@ -992,11 +992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s19787\\RiderProjects\\zadanie\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
+      "projectName": "LegacyAppTests",
+      "projectPath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
       "packagesPath": "C:\\Users\\s19787\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s19787\\AppData\\Roaming\\NuGet\\NuGet.Config",

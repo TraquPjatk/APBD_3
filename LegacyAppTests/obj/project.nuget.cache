@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWjxHwjDSNvSfWFob2zttPzMdGghmcmFyAyJaF1BRQeAL0jfTZqI/JpaZQQiTCt/jhlwljQCLNSa/sb+TID/eA==",
+  "dgSpecHash": "+IJfMVvpOtSdkiocPP12Wt+95R+oGwURkGWH13CuCe/7V4xtlwq0Im71ijsh3bqUnIdYYRVaxsBYkmajL/Byhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s19787\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\s19787\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
