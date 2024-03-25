@@ -41,6 +41,9 @@
           "buildMultiTargeting/Microsoft.NET.Test.Sdk.props": {}
         }
       },
+      "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100/7.0.17": {
+        "type": "package"
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -381,6 +384,19 @@
             "related": ".xml"
           }
         }
+      },
+      "LegacyApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100": "7.0.17"
+        },
+        "compile": {
+          "bin/placeholder/LegacyApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LegacyApp.dll": {}
+        }
       }
     }
   },
@@ -524,6 +540,36 @@
         "lib/netcoreapp3.1/_._",
         "microsoft.net.test.sdk.17.5.0.nupkg.sha512",
         "microsoft.net.test.sdk.nuspec"
+      ]
+    },
+    "Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100/7.0.17": {
+      "sha512": "1CndxY1Iw7cFA6UC0fxfenMeQ5120dSG50wqcoPz6xDJTwxm4uZQWMH5ZE2/c1ApbFozIpzuvOqMAh58UbNbmA==",
+      "type": "package",
+      "path": "microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100/7.0.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "data/WorkloadManifest.json",
+        "data/WorkloadManifest.targets",
+        "data/localize/WorkloadManifest.cs.json",
+        "data/localize/WorkloadManifest.de.json",
+        "data/localize/WorkloadManifest.en.json",
+        "data/localize/WorkloadManifest.es.json",
+        "data/localize/WorkloadManifest.fr.json",
+        "data/localize/WorkloadManifest.it.json",
+        "data/localize/WorkloadManifest.ja.json",
+        "data/localize/WorkloadManifest.ko.json",
+        "data/localize/WorkloadManifest.pl.json",
+        "data/localize/WorkloadManifest.pt-BR.json",
+        "data/localize/WorkloadManifest.ru.json",
+        "data/localize/WorkloadManifest.tr.json",
+        "data/localize/WorkloadManifest.zh-Hans.json",
+        "data/localize/WorkloadManifest.zh-Hant.json",
+        "microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512",
+        "microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.nuspec"
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
@@ -975,10 +1021,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "LegacyApp/1.0.0": {
+      "type": "project",
+      "path": "../LegacyApp/LegacyApp.csproj",
+      "msbuildProject": "../LegacyApp/LegacyApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "LegacyApp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
@@ -1012,7 +1064,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyApp\\LegacyApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

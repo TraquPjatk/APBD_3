@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9Aiz2j+qGNid+SuTlFP1NClPx2kdofSe0slnfCG5Fy0xTqqKXZsa0ox9LEGgPIB1VOX10cOV7dxmgtRNXPxgJA==",
+  "dgSpecHash": "7qxsjm3OS8yhYe9tdoNCE9YiFttxd4+Zb5C5uuTCuy4xnvMyVLZqMbW2+dLoOB74relFbz0ujwqEQD3USHM+UA==",
   "success": true,
   "projectFilePath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100\\7.0.17\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512"
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100\\7.0.17\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

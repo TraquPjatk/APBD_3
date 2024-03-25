@@ -1,4 +1,7 @@
 //using LegacyApp; //TODO ppm na Dependencies w testach > Reference > LegacyApp >> Zmienić .NET na 7.
+
+using LegacyApp;
+
 namespace TestProject1;
 
 public class Tests

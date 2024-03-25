@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+IJfMVvpOtSdkiocPP12Wt+95R+oGwURkGWH13CuCe/7V4xtlwq0Im71ijsh3bqUnIdYYRVaxsBYkmajL/Byhg==",
+  "dgSpecHash": "FU7P1x0EB7BFNJ/HxDa0Pulf9mCaVyV7jxIo0KxGy2wtpLgFddndByJTdYizeESMV/kjtQXGCXkez62PezMjcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s19787\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\s19787\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100\\7.0.17\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512",
     "C:\\Users\\s19787\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\s19787\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\s19787\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",

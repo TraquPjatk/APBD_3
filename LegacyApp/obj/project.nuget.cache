@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b08R1gyIzuTSYPFZVcQDQL6D8kYPVvbCrIcrHqbcWpkDNa9CMIrpbsuvDA5mEbq7LBdU33F/m0LICrwG1+rjrQ==",
+  "dgSpecHash": "HEW/uf3RyrgczO4zjIxuLpXdNKvNVtlPU+ABElnbgFbOQckITYrGD0PDa8Bf+IsU87ver/ii2biTuO1mNxfbug==",
   "success": true,
   "projectFilePath": "C:\\Users\\s19787\\RiderProjects\\zadanie\\LegacyApp\\LegacyApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100\\7.0.17\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512"
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100\\7.0.17\\microsoft.net.workload.mono.toolchain.net7.manifest-7.0.100.7.0.17.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }
